@@ -12,10 +12,7 @@
 - MongoDB
 
 ## Time de Desenvolvedores
-- João Silva
-- Maria Oliveira
-- Carlos Santos
-- Ana Costa
+- Henrique
 
 ## Objetivo do Software
 Este software tem como objetivo criar uma plataforma web para gerenciamento de tarefas. Ele servirá para ajudar os usuários a organizarem suas tarefas diárias de forma eficiente.
