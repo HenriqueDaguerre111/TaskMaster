@@ -7,9 +7,7 @@
 - HTML
 - CSS
 - JavaScript
-- Node.js
-- Express
-- MongoDB
+- Java
 
 ## Time de Desenvolvedores
 - Henrique
